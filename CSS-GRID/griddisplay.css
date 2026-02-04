@@ -1,0 +1,9 @@
+/* para puxar classe = PONTOO!!!*/
+.container {
+    display: grid;
+    grid-template-columns: 30px 30px 30px;
+    /* Colunas 1, 2 e 3 com 30 pixels - para ter colunas indicamos o tamanho das colunas, não a quantidade*/
+    grid-template-rows: 30px, 30px, 30px;
+    /* ROWS = LINHA */
+}
+
